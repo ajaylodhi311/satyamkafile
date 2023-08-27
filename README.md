@@ -1,2 +1,3 @@
 # satyamkafile
-this is my second bit repository
+this is my second bit repository.
+author - ajay singh lodhi
